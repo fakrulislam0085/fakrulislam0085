@@ -65,6 +65,10 @@ Currently working on my **personal portfolio website**, which you’ll find live
 
 ---
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/fakrulislam0085/fakrulislam0085/raw/main/Fakrul_Islam_Resume.pdf)
+
 ## 💬 Let's Connect
 
 - 📧 Email: [fakrul.islam@studenti.polito.it](mailto:fakrul.islam@studenti.polito.it)
