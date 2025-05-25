@@ -16,7 +16,7 @@ Now I'm exploring competitive programming and backend development, one problem a
 
 ---
 
-## 📚 CS Courses Completed
+## 📚 Subjects I'll Study in My Bachelor's Degree
 
 - 📘 Computer Science  
 - 📘 Programming Techniques  
@@ -37,7 +37,6 @@ Now I'm exploring competitive programming and backend development, one problem a
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -77,13 +76,6 @@ Currently working on my **personal portfolio website**, which you’ll find live
 
 ![Fakrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact)
-
----
-
-## ✨ Fun Fact
-
-I once debugged a C program at 2 AM just to win a Codeforces challenge —  
-and then rewarded myself with biryani. That’s what I call *true balance* 😄🍛
 
 ---
 
