@@ -59,7 +59,7 @@ I regularly solve problems using Python and C++, participate in contests, and tr
 - ❌⭕ Tic-Tac-Toe *(Python)* — Two-player fun in terminal.
 
 Currently working on my **personal portfolio website**, which you’ll find live at:  
-🌐 `https://fakrulislam0085.github.io/portfolio` *(Coming soon!)*
+🌐 `https://arif-portfolio.lovable.app/`*
 
 ---
 
