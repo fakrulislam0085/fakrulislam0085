@@ -2,7 +2,8 @@
 
 🎓 **Computer Engineering Student** at [Politecnico di Torino](https://www.polito.it)  
 💡 Aspiring **Backend Developer** & active member of [CPPoliTO](https://github.com/CPPoliTO)  
-🚀 On a mission to **crack GSoC 2026** and contribute to impactful open-source projects.
+🚀 On a mission to **crack GSoC 2026** and contribute to impactful open-source projects.  
+🌐 **Portfolio:** [arif-portfolio.lovable.app](https://arif-portfolio.lovable.app/)
 
 *Official Name: Fakrul Islam*
 
@@ -14,7 +15,7 @@ Hey there! I'm Fakrul — a tech enthusiast who loves solving real-world problem
 My journey started with curiosity and a love for clean logic.  
 Now I'm exploring competitive programming and backend development, one problem at a time.  
 
-🏛️ Based in **Italy**, originally from **Bangladesh**, I bring global perspective to every project.
+🏛️ Based in **Italy**, originally from **Bangladesh**, I bring a global perspective to every project.
 
 ---
 
@@ -121,6 +122,7 @@ Analyzed machine operational reports, validated monotonic sequences, filtered co
 - 📧 Email: [fakrul.islam@studenti.polito.it](mailto:fakrul.islam@studenti.polito.it)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fakrul-islam-08/)  
 - 🧑‍💻 [GitHub](https://github.com/fakrulislam0085)  
+- 🌐 [Portfolio](https://arif-portfolio.lovable.app/)
 
 ---
 
