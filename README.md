@@ -128,8 +128,8 @@ Analyzed machine operational reports, validated monotonic sequences, filtered co
 
 ## 📊 GitHub Stats
 
-![Fakrul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact&theme=dark)
 
 ---
 
