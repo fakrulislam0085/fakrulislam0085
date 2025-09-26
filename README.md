@@ -74,7 +74,7 @@ Parsed guest logs to detect overlapping stays and generate alphabetical contact 
 ---
 
 ### ⚙️ Machine Log Anomaly Detector — Python  
-[🔗 GitHub](https://github.com/fakrulislam0085/CompScience-PoliTO/tree/main/EXAM%20QUESTIONS/Feb10_slot1)  
+[🔗 GitHub](https://github.com/fakrulislam0085/CompScience-PoliTO/tree/main/EXAM%20QUESTIONS/Feb10_Slot_1)  
 Analyzed machine operational reports, validated monotonic sequences, filtered correct reports, and generated summary statistics.  
 **Tech:** Python, text parsing, rule engines  
 **Key Features:** anomaly detection, rule-based filtering.
@@ -128,8 +128,8 @@ Analyzed machine operational reports, validated monotonic sequences, filtered co
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=system)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact&theme=system)
 
 ---
 
