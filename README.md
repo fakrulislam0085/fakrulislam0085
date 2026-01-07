@@ -126,13 +126,4 @@ Analyzed machine operational reports, validated monotonic sequences, filtered co
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=system)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact&theme=system)
-
-
----
-
 _Thanks for scrolling by! ⭐ Drop a star if you like my work or just say hi!_
