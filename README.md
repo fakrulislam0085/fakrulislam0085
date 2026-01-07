@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Fakrul Islam Arif!
+# 👋 Hi there, I'm Fakhrul Islam Arif!
 
 🎓 **Computer Engineering Student** at [Politecnico di Torino](https://www.polito.it)  
 💡 Aspiring **Backend Developer** & active member of [CPPoliTO](https://github.com/CPPoliTO)  
@@ -11,7 +11,7 @@
 
 ## 🔍 About Me
 
-Hey there! I'm Fakrul — a tech enthusiast who loves solving real-world problems with code.  
+Hey there! I'm Fakhrul — a tech enthusiast who loves solving real-world problems with code.  
 My journey started with curiosity and a love for clean logic.  
 Now I'm exploring competitive programming and backend development, one problem at a time.  
 
@@ -128,8 +128,10 @@ Analyzed machine operational reports, validated monotonic sequences, filtered co
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=system)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakrulislam0085&show_icons=true&theme=system)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakrulislam0085&layout=compact&theme=system)
+
 
 ---
 
